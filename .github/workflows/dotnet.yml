@@ -7,7 +7,7 @@ on:
     branches: [ main ]
     
 env: 
-  WEB_APP_NAME: webappone
+  WEB_APP_NAME: chaitanya
 
 jobs:
   build:
